@@ -1,0 +1,6 @@
+
+
+logging:
+  level:
+    ROOT: INFO
+  path: logs
